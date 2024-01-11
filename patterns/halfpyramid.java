@@ -1,7 +1,8 @@
 package patterns;
 
 public class halfpyramid {
-    
+    public static void main(String[] args) {
+
     //half pyramid
     int n=5;
     for(int i=1; i<=n; i++){
@@ -10,4 +11,5 @@ public class halfpyramid {
         }
         System.out.println();
     }
+}
 }
