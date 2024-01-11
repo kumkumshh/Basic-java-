@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "conditions1",
+            "request": "launch",
+            "mainClass": "conditions1",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "datatypes",
+            "request": "launch",
+            "mainClass": "datatypes",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "loops1",
+            "request": "launch",
+            "mainClass": "loops1",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "loops2",
+            "request": "launch",
+            "mainClass": "loops2",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "loops3",
+            "request": "launch",
+            "mainClass": "loops3",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "halfpyramid",
+            "request": "launch",
+            "mainClass": "patterns.halfpyramid",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "halfpyramidwithnum",
+            "request": "launch",
+            "mainClass": "patterns.halfpyramidwithnum",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "hollowrect",
+            "request": "launch",
+            "mainClass": "patterns.hollowrect",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "invertedhalfpyramid",
+            "request": "launch",
+            "mainClass": "patterns.invertedhalfpyramid",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "invertedhalfpyramidwithnum",
+            "request": "launch",
+            "mainClass": "patterns.invertedhalfpyramidwithnum",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "rotatedhalfpyramid",
+            "request": "launch",
+            "mainClass": "patterns.rotatedhalfpyramid",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "solidrect",
+            "request": "launch",
+            "mainClass": "patterns.solidrect",
+            "projectName": "java-with-DSA_98917253"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "java-with-DSA_98917253"
+        }
+    ]
+}
