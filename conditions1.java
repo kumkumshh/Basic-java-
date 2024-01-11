@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import java.util.*;
 
-public class que4 {
+public class conditions1 {
     public static void main(String[] args) {
             
 

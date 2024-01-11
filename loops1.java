@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class que1{
+public class loops1{
     /**
      * @param args
      */

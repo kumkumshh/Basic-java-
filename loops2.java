@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import java.util.*;
 
-public class que2 {
+public class loops2 {
     public static void main(String[] args) {
     
      // Displaying the name of the month acc to the num 1 to 12
