@@ -15,11 +15,11 @@ public class conditions1 {
         // 59 >= Marks >= 0 -> print “This is Good as well”
         // Because marks don’t matter but our effort does.
 
-        Scanner sc = new Scanner(System.in);
+        Scanner ss = new Scanner(System.in);
         int input;
 
         do{
-            int marks = sc.nextInt();
+            int marks = ss.nextInt();
             if(marks>=90 && marks<=100){
                 System.out.println("This is good");
             }else if(marks>=60 && marks<=89){
@@ -31,7 +31,7 @@ public class conditions1 {
             }
 
             System.out.println("wants to continue ? (yes(1) or no(0))");
-            input = sc.nextInt();
+            input = ss.nextInt();
         }
         while(input==1);
 
