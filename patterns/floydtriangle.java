@@ -1,6 +1,6 @@
 package patterns;
 
-public class floydtriangle {
+public class floydTriangle {
     public static void main(String[] args) {
         
         //floyd's triangle

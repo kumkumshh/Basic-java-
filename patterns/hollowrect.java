@@ -1,6 +1,6 @@
 package patterns;
 
-public class hollowrect {
+public class hollowRect {
     public static void main(String[] args) {
         
         //hollow rectangle

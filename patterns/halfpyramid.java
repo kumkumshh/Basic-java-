@@ -1,6 +1,6 @@
 package patterns;
 
-public class halfpyramid {
+public class halfPyramid {
     public static void main(String[] args) {
 
     //half pyramid

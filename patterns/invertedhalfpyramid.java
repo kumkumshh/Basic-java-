@@ -1,6 +1,6 @@
 package patterns;
 
-public class invertedhalfpyramid {
+public class invertedHalfPyramid {
     public static void main(String[] args) {
         
         //inverted half pyramid

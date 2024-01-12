@@ -1,6 +1,6 @@
 package patterns;
 
-public class solidrect {
+public class solidRectangle {
     public static void main(String[] args) {
         
         // solid rectangle 
