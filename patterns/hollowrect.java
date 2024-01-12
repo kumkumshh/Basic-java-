@@ -1,4 +1,3 @@
-package patterns;
 
 public class hollowRect {
     public static void main(String[] args) {

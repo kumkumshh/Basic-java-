@@ -2,20 +2,17 @@
  * que6
  */
 public class datatypes {
-    private static final bool True = null;
 
     public static void main(String[] args) {
 
         //1.Try to declare meaningful variables of each type. Eg - a variable named age should be a numeric type (int or float) not byte.
 
         int age = 10;
-        bool flag = True;
         float marks = 95;
         String symbol = "a";
         String name = "kumkum";
 
         System.out.println(age);
-        System.out.println(flag);
         System.out.println(marks);
         System.out.println(symbol);
         System.out.println(name);

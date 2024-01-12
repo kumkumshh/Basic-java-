@@ -1,4 +1,3 @@
-package patterns;
 
 public class Triangle01 {
     public static void main(String[] args) {
